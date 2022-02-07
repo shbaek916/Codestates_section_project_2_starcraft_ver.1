@@ -26,7 +26,10 @@
 
 ✔ 가설과 탐색
 
-🔥 플레이어들의 유닛과 건물 운용능력(Ability)이 승패를 좌우할 것이다
-🦴 player_0_Ability, player_1_Ability
-🔥 플레이어들이 생산한 일꾼(유닛)의 수가 승패를 좌우할 것이다
-🦴player_0_worker, player_1_worker
+- 플레이어들의 유닛과 건물 운용능력(Ability)이 승패를 좌우할 것이다 : player_0_Ability, player_1_Ability
+- 플레이어들이 생산한 일꾼(유닛)의 수가 승패를 좌우할 것이다 : player_0_worker, player_1_worker
+- 베이스라인 모델 : 최빈값
+- 평가지표 : 정확도와 F1
+- F1 선택 이유 : 정확도가 높은 것이 두가지 클래스를 모두 정확하게 분류한다는 뜻은 아니기 때문에 이를 보정하고 오류를 줄일 수 있다.
+
+

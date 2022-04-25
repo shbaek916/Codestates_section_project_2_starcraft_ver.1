@@ -1,4 +1,6 @@
-#### 본 레포지토리에 대한 설명
+#### 프로젝트 개요와 목적에 대한 설명은 https://whitecalf.tistory.com/70 을 참고해주세요
+
+#### 본 레포지토리에 대한 설명과 순서
 
 ###### 1. AI06_백송하_Section2_data_preprocessing1.ipynb
 - 원본데이터 탐색
